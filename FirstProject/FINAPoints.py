@@ -3,6 +3,16 @@ FINA Swimming point system. To compare times across different events and genders
 Author: motaegi
 Recommended enhancements: include yard events, include short course events
 Exception handling needs to be improved, corner case error when entering incorrect inputs
+USAGE:
+Follow prompts to choose female/male events
+Length of event in meters
+Stroke
+And ender the individual time.
+You can enter multiple times in sequence for the same event.
+Use "gender" to change genders
+User "change" to change the event within the same gender. i.e: from 50 free to 200 breaststroke
+Use "end" to end the script.
+Limitations: yards and short course not supported. Collaboration welcomed to add those features.
 '''
 import sys
 
