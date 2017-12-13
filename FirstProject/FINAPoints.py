@@ -10,7 +10,7 @@ Stroke
 And enter the individual time.
 You can enter multiple times in sequence for the same event.
 Use "gender" to change genders
-User "change" to change the event within the same gender. i.e: from 50 free to 200 breaststroke
+Use "change" to change the event within the same gender. i.e: from 50 free to 200 breaststroke
 Use "end" to end the script.
 Limitations: yards and short course not supported. Collaboration welcomed to add those features.
 '''
