@@ -1,0 +1,20 @@
+50 m freestyle 23.67
+100 m freestyle 51.71
+200 m freestyle 1:52.98
+400 m freestyle 3:56.46
+800 m freestyle 8:04.79
+1500 m freestyle    15:25.48
+50 m backstroke 27.06
+100 m backstroke    58.1
+200 m backstroke    2:04.06
+50 m breaststroke   29.4
+100 m breaststroke  1:04.13
+200 m breaststroke  2:19.11
+50 m butterfly  24.43
+100 m butterfly 55.48
+200 m butterfly 2:01.81
+200 m individual medley 2:06.12
+400 m individual medley 4:26.36
+4x100 m freestyle relay 3:30.65
+4x200 m freestyle relay 7:42.08
+4x100 m medley relay    3:51.55
