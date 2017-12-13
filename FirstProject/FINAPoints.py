@@ -7,7 +7,7 @@ USAGE:
 Follow prompts to choose female/male events
 Length of event in meters
 Stroke
-And ender the individual time.
+And enter the individual time.
 You can enter multiple times in sequence for the same event.
 Use "gender" to change genders
 User "change" to change the event within the same gender. i.e: from 50 free to 200 breaststroke
